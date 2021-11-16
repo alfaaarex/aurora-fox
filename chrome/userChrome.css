@@ -9,9 +9,9 @@
     --third-accent-color: 167, 82, 223;
     --light-color: 40, 40, 40;
     --dark-color: 20, 20, 20;
-    --caption-min-color: 136, 81, 168;
-    --caption-max-color: 74, 45, 116;
-    --caption-close-color: 94, 17, 174;
+    --caption-close-color: 136, 81, 168;
+    --caption-min-color: 74, 45, 116;
+    --caption-max-color: 94, 17, 174;
     --url-bg-color: 20, 20, 20;
     --active-tab-color: 28, 28, 28;
 }
