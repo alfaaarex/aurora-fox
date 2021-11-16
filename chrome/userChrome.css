@@ -311,4 +311,9 @@ searchbar#searchbar {
     color: unset !important;
 }
 
+/*==Extension-alert-fix==*/
+#identity-box > .identity-box-button,
+.tab-secondary-label {
+  display: none !important;
+}
 
